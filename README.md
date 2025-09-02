@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Khaled Elsayed 👋</h1>
+<h3 align="center">Flutter Developer 🧠 | Mobile App Enthusiast 📱</h3>
 
-<!--
-**Khaledelsayed10/Khaledelsayed10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```dart
+class KhaledElsayed {
+  final String role = "Flutter Developer";
+  final String focus = "Building high-quality mobile apps";
+  final List<String> skills = [
+    "Flutter & Dart",
+    "Clean Architecture",
+    "State Management (Cubit/Bloc/Provider)",
+    "REST APIs & Integration",
+    "Firebase & Authentication",
+    "UI/UX Design Implementation"
+  ];
+}
