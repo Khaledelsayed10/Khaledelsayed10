@@ -7,22 +7,10 @@
 ---
 
 ## 🌱 About Me
-- 🚀 Currently learning **State Management, Clean Architecture, Animations**  
+- 🚀 Flutter Developer focused on building **clean, scalable mobile apps**  
 - 🤝 Open to collaborate on **Flutter Open Source Projects**  
 - 💬 Ask me about **Flutter, Dart, Git, GitHub**  
 - 📫 Reach me at: **[khaledelsayed101020@gmail.com](mailto:khaledelsayed101020@gmail.com)**  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledelsayed&theme=cobalt&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khaledelsayed&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledelsayed&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
 
 ---
 
@@ -63,7 +51,4 @@
 
 ---
 
-## ⚡️ Motto
-<p align="center">
-  <b>“Code once, run everywhere — Flutter is the future.”</b>
-</p>
+
