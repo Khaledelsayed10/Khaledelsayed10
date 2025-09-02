@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning **State Management, Clean Architecture, Animations**
 - 🤝 I’m looking to collaborate on **Flutter Open Source Projects**
 - 💬 Ask me about **Flutter, Dart, Git, GitHub**
-- 📫 How to reach me :
-  - **[Gmail](khaledelsayed101020@gmail.com)**
+- 📫 How to reach me : - **[Gmail](khaledelsayed101020@gmail.com)**
 
 ---
 
@@ -54,10 +53,23 @@
 
 ## 🚀 Featured Projects
 
-- 📱 [**Flutter Chat App**](https://github.com/khaledelsayed/flutter_chat_app) – Real-time messaging with Socket.IO  
-- 🏋️ [**Workout Recommender**](https://github.com/khaledelsayed/workout_recommender) – AI-based workout suggestions  
-- 🎨 [**Awesome Flutter UI**](https://github.com/khaledelsayed/awesome_flutter_ui) – Collection of clean UI widgets  
-- 🔐 [**Auth App**](https://github.com/khaledelsayed/flutter_auth_app) – Firebase Authentication with Flutter  
+- 🏥 [**Nezamk**](https://github.com/Khaledelsayed10/Nezamk)  
+  Mobile app for booking health/coaching sessions with **secure payments, AI suggestions, Google Fit integration, real-time chat, and wellness communities**.  
+  *Tech:* Flutter, Dart, Firebase, Custom Backend, Google Fit API, Payment Gateway, AI Chatbot  
+
+- 📚 [**Bookly**](https://github.com/Khaledelsayed10/bookly)  
+  Browse, search, and filter books by category/genre with **favorites, progress tracking, offline reading, and smooth animations**.  
+  *Tech:* Flutter, Dart, REST API, Caching, Responsive UI, Animations  
+
+- 🌤️ [**Weather App**](https://github.com/Khaledelsayed10/weather_app)  
+  Real-time weather forecast for any city with **detailed conditions, high/low temps, and MVVM + Cubit architecture**.  
+  *Tech:* Flutter, Dart, Cubit, Dio, REST API, MVVM, Responsive UI  
+
+- 📝 [**Notes App**](https://github.com/Khaledelsayed10/nots_app)  
+  Note-taking app with **Hive local storage, color categories, editing, deletion, and date tracking**.  
+  *Tech:* Flutter, Dart, Hive, Cubit, BlocObserver, Responsive UI  
+
+
 
 ---
 
