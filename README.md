@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋, I'm Khaled Elsayed, A Passionate Flutter Developer </h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="Flutter Developer" width="100%" height="auto"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledelsayed&label=Profile%20views&color=0e75b6&style=flat" alt="khaledelsayed" /> </p>
 
